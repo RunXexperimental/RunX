@@ -7,7 +7,7 @@
 * [How this thing started](#How this thing started)
 * [What's next?](#What's next?)
 
-What's this
+### What's this
 
 This is just a website created by a newbie when he is suffering his design class homework.
 ####
