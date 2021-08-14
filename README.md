@@ -34,3 +34,15 @@ But the advantages are that each picture has the best quality so you can save th
 ####
 
 **********************************************
+### What's next?
+
+We will keep uploading new pages... and fixing bugs of course.
+**********************************************
+
+==============================================
+## Projector: Weifeng Wang
+### Email: Wangweifeng0316@foxmail.com
+###### Or you can just click on "new issues" to send feedback.
+==============================================
+
+# YOU HAVE REACHED THE END OF THIS README
