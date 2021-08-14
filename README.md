@@ -3,9 +3,9 @@
 ==============================================
 
 ## Menu
-* [What's this]
-* [How this thing started]
-* [What's next?]
+* What's this
+* How this thing was bulit
+* What's next?
 
 ==============================================
 
@@ -19,3 +19,18 @@ Until he gets deeper ♂ into it, he finds out it would be somehow interesting..
 ####
 So, he decided to give it a try.
 ####
+
+**********************************************
+
+### How this thing was bulit
+
+This thing was the lamest website you have ever seen.
+####
+It uses a standard html starter mold, so it's functions are s**t.
+####
+Even worse, due to the f**king Response speed, it might be a long time to wait for the pictures to render complete.
+####
+But the advantages are that each picture has the best quality so you can save them on your PC/ Linux /Mac/ "Something else".
+####
+
+**********************************************
