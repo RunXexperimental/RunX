@@ -3,9 +3,11 @@
 ==============================================
 
 ## Menu
-* [What's this](#What's this)
-* [How this thing started](#How this thing started)
-* [What's next?](#What's next?)
+* [What's this]
+* [How this thing started]
+* [What's next?]
+
+==============================================
 
 ### What's this
 
