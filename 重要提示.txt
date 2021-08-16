@@ -1,8 +1,10 @@
-||||||||||||||||||||||||||||||||||以下内容请一定要过目哦，老师|||||||||||||||||||||||||||||||||||
+Please be sure to read the following
 
 
 +++++++++++++++++++++++++++++++++
-看考核之前请您先安装【Pingfang SS 常规】字体
-字体文件已经附在本文件夹之中
-文件名为 pingfangSS.ttf
+It is recommended that you install Pingfang SS before opening this page
+
+The font file is attached to this folder
+
+The file name is pingfangss.ttf
 +++++++++++++++++++++++++++++++++
